@@ -1,195 +1,36 @@
 {
   "accounts": [
     {
-      "username": "Ada",
-      "email": "johanna@johaona.se",
-      "password": "abc120"
-    },
-    {},
-    {
-      "username": "apa",
-      "email": "apa@apa.com",
+      "username": "johanna",
+      "email": "johanna@johanna.com",
       "password": "wer123"
+    },
+    {
+      "username": "hanna",
+      "email": "hanna@hanna.com",
+      "password": "mnb123"
     }
   ],
   "orders": [
     {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59
+      "username": "johanna",
+      "title": "Cappuccino",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49,
+      "id": "sF_y8-UvxOag0w6RKoey2",
+      "eta": 17,
+      "orderTime": "2021-05-06T14:18:04.000Z",
+      "orderDone": false
     },
     {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "vC8akNRDVqYrFCn0p43vA"
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "xFkC5UOHjgHHH30cUdxa5"
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "MCnBBSQ90V4QVslh9MutG",
-      "eta": 27
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "bpZaIoBjKDlKLUVnNfB8V",
-      "eta": 23
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "S7V7vW5gDTXP0ThlhVS5z",
-      "eta": 14
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "_f1wd0DhgEHuSu_XKcMn7",
-      "eta": 14
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "aqWUbyvu21QNkBH1O9C47",
-      "eta": 28
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "sV0SkYPX-PB1GTDFtEQYd",
-      "eta": 22
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "3qDU2OUcRx-1-hF55IUkm",
-      "eta": 23
-    },
-    {
-      "username": "Ada",
-      "email": "johanna@johaona.se",
-      "password": "abc120"
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "_ZJwuxEAULP6pOTTi5HD7",
-      "eta": 11
-    },
-    {
-      "username": "Ada",
-      "email": "johanna@johaona.se",
-      "password": "abc120"
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "mxy8T1puv2hFqXymm6bBz",
-      "eta": 29
-    },
-    {
-      "username": "Ada",
-      "email": "johanna@johaona.se",
-      "password": "abc120"
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "Rv_pyXbNpd4nv8keXE-Vo",
-      "eta": 23,
-      "username": "Ada"
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "LlZKt_SBIpvQNq8mgsLrV",
-      "eta": 25,
-      "username": "Ada"
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "username": "Ada",
-      "id": "YQcAgSEaZR64epjxkq2v1",
-      "eta": 13
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "username": "Ada",
-      "id": "YQcAgSEaZR64epjxkq2v1",
-      "eta": 13
-    },
-    {
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "username": "Ada",
-      "id": "_-NJCgIGvuASYXFaROZgO",
-      "eta": 17
-    },
-    {
-      "username": "apa",
-      "title": "cappucino",
-      "desc": "Blabla",
-      "price": 59,
-      "id": "y4C7IwvkFz7mUYXQ20Ddj",
-      "eta": 28
+      "username": "johanna",
+      "title": "Cappuccino",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49,
+      "id": "YUQg1c2_zTsO_GwJNSbfr",
+      "eta": 15,
+      "orderTime": "2021-05-06T14:19:51.000Z",
+      "orderDone": false
     }
   ]
 }
